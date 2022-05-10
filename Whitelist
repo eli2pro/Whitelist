@@ -1,6 +1,3 @@
---Beemo's simple whitelist
-
-
 local keys = {
     "Key1",
     "Key2",
